@@ -1,0 +1,11 @@
+a = 2
+b = 3
+c = 4
+d = 5
+
+def suma(a,b):
+    return a+b
+
+print(suma(a,b))
+print(suma(a,d))
+print(suma(3+a))

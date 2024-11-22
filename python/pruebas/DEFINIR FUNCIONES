@@ -1,0 +1,8 @@
+
+
+def elevaalcuadrado (num):
+    x = num**2
+    return x
+
+valor= elevaalcuadrado(12)
+print(valor)
